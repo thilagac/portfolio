@@ -11,7 +11,7 @@ export const Form = () => {
         <label>Subject</label>
         <input type='text'></input>
         <label>Message</label>
-        
+        <br></br>
       <textarea rows="6" placeholder='type your message here'/>
       <button className='btn'>Submit</button>
       </form>
